@@ -1,2 +1,2 @@
 # LLM-Langchain-Projects
-Sample LLM Projects using Langchain
+This Repo is to show sample LLM Projects done using Langchain
